@@ -80,7 +80,7 @@ wait $PID1 $PID2 //可以由ctrl+c 主动结束
 
 加上-vf "scale=320:480"表示 这条命令会将视频内容缩放至 framebuffer 匹配的分辨率，再送入 `/dev/fb0`，从而让内容能正确覆盖整块屏。
 
-
+<img src="images\微信图片_20250701132418.jpg" alt="微信图片_20250701132418" style="zoom:25%;" />
 
 
 
